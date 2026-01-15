@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Github, ExternalLink } from 'lucide-react';
 
 const Projects = ({ data }) => {
-  const [hoveredProject, setHoveredProject] = useState(null);
+  const [, setHoveredProject] = useState(null);
 
   return (
     <div className="max-w-6xl">
