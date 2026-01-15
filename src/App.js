@@ -14,7 +14,7 @@ import portfolioData from './portfolioData';
 
 function App() {
   const [activeSection, setActiveSection] = useState('skills'); // Changed from 'about' to 'skills'
-  const [isLoaded, setIsLoaded] = useState(false);
+  const [, setIsLoaded] = useState(false);
 
   useEffect(() => {
     setIsLoaded(true);
