@@ -113,7 +113,7 @@ const portfolioData = {
   
   // Email configuration for contact form
   emailConfig: {
-    yourEmail: "neha.samudrala02@gmailcom",
+    yourEmail: "neha.samudrala02@gmail.com",
     serviceId: "service_kyr9uhg",      // Get from EmailJS dashboard
     templateId: "template_pcv7vsc",     // Get from EmailJS dashboard
     publicKey: "P-KMjzHvywLhQsyoHcBLK"        // Get from EmailJS dashboard
