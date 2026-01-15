@@ -106,7 +106,7 @@ const Contact = ({ emailConfig, setActiveSection }) => {
                 onChange={handleChange}
                 required
                 className="w-full px-4 py-3 bg-slate-800/50 border border-slate-700 rounded-lg focus:outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-500/20 transition-all text-slate-100"
-                placeholder="Your Name"
+                placeholder="Samudrala Neha"
               />
             </div>
 
@@ -123,7 +123,7 @@ const Contact = ({ emailConfig, setActiveSection }) => {
                 onChange={handleChange}
                 required
                 className="w-full px-4 py-3 bg-slate-800/50 border border-slate-700 rounded-lg focus:outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-500/20 transition-all text-slate-100"
-                placeholder="your.email@example.com"
+                placeholder="neha.samudrala02@gmail.com"
               />
             </div>
 
