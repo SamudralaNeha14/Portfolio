@@ -116,7 +116,7 @@ const portfolioData = {
     yourEmail: "neha.samudrala02@gmail.com",
     serviceId: "service_pj1d5uf",      // Get from EmailJS dashboard
     templateId: "template_pcv7vsc",     // Get from EmailJS dashboard
-    publicKey: "P-KMjzHvywLhQsyoHcBLK"        // Get from EmailJS dashboard
+    publicKey: "wlCdqEAEE2s5F4xS5"        // Get from EmailJS dashboard
   }
 };
 
